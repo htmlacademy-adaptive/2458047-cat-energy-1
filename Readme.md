@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Егор Плотник](https://up.htmlacademy.ru/adaptive-individual/1/user/2458047).
-* Наставник: `Неизвестно`.
+* Наставник: `Андрей Изосимов https://github.com/DoberBober`.
 
 ---
 
